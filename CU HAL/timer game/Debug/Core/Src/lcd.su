@@ -1,0 +1,15 @@
+../Core/Src/lcd.c:20:6:LCD16X2_Init	40	static
+../Core/Src/lcd.c:92:6:LCD16X2_ClrScr	8	static
+../Core/Src/lcd.c:101:6:LCD16X2_Home	8	static
+../Core/Src/lcd.c:112:6:LCD16X2_GotoXY	24	static
+../Core/Src/lcd.c:126:6:LCD16X2_PutChar	16	static
+../Core/Src/lcd.c:135:6:LCD16X2_Puts	16	static
+../Core/Src/lcd.c:148:6:LCD16X2_CreateCustomChar	24	static
+../Core/Src/lcd.c:171:6:LCD16X2_PutCustomChar	16	static
+../Core/Src/lcd.c:181:6:LCD16X2_DisplayControl	16	static
+../Core/Src/lcd.c:190:13:LCD16X2_Write	16	static
+../Core/Src/lcd.c:200:13:LCD16X2_WriteCommand	16	static
+../Core/Src/lcd.c:211:13:LCD16X2_WriteData	16	static
+../Core/Src/lcd.c:221:13:LCD16X2_Pulse_E	8	static
+../Core/Src/lcd.c:235:13:LCD16X2_Write4Bits	16	static
+../Core/Src/lcd.c:251:13:LCD16X2_Delay_us	24	static,ignoring_inline_asm

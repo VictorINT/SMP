@@ -1,0 +1,15 @@
+../Core/Src/main.c:77:5:main	16	static
+../Core/Src/main.c:141:6:SystemClock_Config	72	static
+../Core/Src/main.c:180:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:213:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:262:13:readChar	16	static
+../Core/Src/main.c:274:13:sendString	16	static
+../Core/Src/main.c:279:13:shiftOut	24	static
+../Core/Src/main.c:303:6:joc1	8	static
+../Core/Src/main.c:317:6:joc2	16	static
+../Core/Src/main.c:339:6:joc3	16	static
+../Core/Src/main.c:352:6:joc4	16	static
+../Core/Src/main.c:363:6:stingerea	8	static
+../Core/Src/main.c:369:6:joc5	16	static
+../Core/Src/main.c:378:6:joc6	8	static
+../Core/Src/main.c:408:6:Error_Handler	4	static,ignoring_inline_asm

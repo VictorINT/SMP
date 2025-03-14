@@ -1,0 +1,12 @@
+../Core/Src/main.c:77:5:main	5
+../Core/Src/main.c:146:6:SystemClock_Config	3
+../Core/Src/main.c:185:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:218:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:251:13:MX_GPIO_Init	1
+../Core/Src/main.c:291:13:sendString	1
+../Core/Src/main.c:296:6:afisare	5
+../Core/Src/main.c:316:6:readChar	2
+../Core/Src/main.c:328:7:victorie	24
+../Core/Src/main.c:370:13:mutareX	5
+../Core/Src/main.c:403:13:mutare0	31
+../Core/Src/main.c:461:6:Error_Handler	1

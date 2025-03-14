@@ -1,0 +1,15 @@
+../Core/Src/main.c:77:5:main	13
+../Core/Src/main.c:141:6:SystemClock_Config	3
+../Core/Src/main.c:180:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:213:13:MX_GPIO_Init	1
+../Core/Src/main.c:262:13:readChar	2
+../Core/Src/main.c:274:13:sendString	1
+../Core/Src/main.c:279:13:shiftOut	5
+../Core/Src/main.c:303:6:joc1	1
+../Core/Src/main.c:317:6:joc2	3
+../Core/Src/main.c:339:6:joc3	2
+../Core/Src/main.c:352:6:joc4	1
+../Core/Src/main.c:363:6:stingerea	1
+../Core/Src/main.c:369:6:joc5	2
+../Core/Src/main.c:378:6:joc6	1
+../Core/Src/main.c:408:6:Error_Handler	1
